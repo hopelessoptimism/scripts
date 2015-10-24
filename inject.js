@@ -1,3 +1,5 @@
+// TODO: make into a GreaseMonkey script or extension
+
 var load_library = function(lib, version) {
   // use cdnjs
   var base = "https://cdnjs.cloudflare.com/ajax/libs/"
